@@ -1,0 +1,70 @@
+body {
+  margin: 0%;
+  background-color: rgb(182, 182, 182);
+}
+.nav {
+  background-color: black;
+}
+.list {
+  list-style: none;
+  display: inline-flex;
+  margin: 0.5rem;
+  margin-left: 50%;
+}
+.list li {
+  padding: 1rem;
+  font-size: 25px;
+}
+.nav-item {
+  text-decoration: none;
+  color: crimson;
+}
+.nav-item:hover {
+  color: rgb(255, 255, 255);
+}
+.main-nav {
+  color: gainsboro;
+  text-decoration: none;
+  font-size: 30px;
+  margin: none;
+}
+#main-heading {
+  padding: 1rem;
+  text-shadow: 1px 1px red;
+}
+#heading {
+  text-align: center;
+  font-size: 34px;
+  margin: 1.5rem;
+  margin-top: 5%;
+}
+
+#main {
+  text-align: center;
+}
+
+#error-msg {
+  font-size: 25px;
+  padding: 1rem;
+  color: rgb(227, 33, 33);
+  font-weight: 300;
+}
+
+.blogs {
+  text-decoration: none;
+  font-size: 23px;
+}
+.container {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 1px 1px grey;
+  margin: 3% 25%;
+  background-color: black;
+}
+.container h3 {
+  color: rgb(255, 255, 255);
+}
+.container p {
+  color: red;
+}
